@@ -54,7 +54,7 @@ A playful yet insightful **farm management simulator** written in Python, teachi
 
 ## 📫 Let's Connect!  
 - **Email:** kiddkailash@gmail.com  
-- **LinkedIn:** [linkedin.com/in/kailashkidd](#https://www.linkedin.com/in/kailash-kidd-2979b3331/)  
+- **LinkedIn:** [linkedin.com/in/kailashkidd](https://www.linkedin.com/in/kailash-kidd-2979b3331/)  
 
 ---
 

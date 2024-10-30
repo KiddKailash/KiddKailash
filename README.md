@@ -7,57 +7,54 @@ Welcome to my GitHub! I'm a **Design (Information Environments) & Business Manag
 ## 🌟 Featured Projects  
 
 ### 🌐 **Storypath Web**  
-A web platform that allows users to **author and manage location-based experiences** (such as museum tours, treasure hunts, and guided explorations).
+A web platform that allows users to **author and manage** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
 **Visit the live website** @ https://storypath.netlify.app/ 
 - **Tech Stack:** React with Vite, RESTful API, Material UI
 - **Features:** Project and location management, AI (chat GPT powered) project management and dynamic content rendering.
-[View Repository](#https://github.com/KiddKailash/StoryPath---Web.git)
+**View Repository** @ https://github.com/KiddKailash/StoryPath---Web.git
 
 ---
 
 ### 📱 **Storypath Native**  
-The native mobile version of Storypath, designed for seamless storytelling on mobile devices.  
-- **Tech Stack:** React Native, Expo  
+An IOS/Android application that allows users to **participate in** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
+- **Tech Stack:** React Native, Expo, RESTful API
 - **Features:** Offline functionality, smooth transitions, and optimized touch interactions  
 [View Repository](#)
 
 ---
 
 ### 🗄️ **SQL Project**  
-A comprehensive SQL project focused on **database design and query optimization** for real-world applications.  
+A SQL project on **database design and query optimization** for real-world applications, to showcase my database construction and manipulation understanding.  
 - **Focus:** Efficient data retrieval and relationship management  
 - **Skills Used:** Complex joins, nested queries, and indexing strategies  
-[View Repository](#)
+**View Repository** @ https://github.com/KiddKailash/SQL-DDL-and-DML 
 
 ---
 
 ### 🚜 **Python Farm Simulator**  
 A playful yet insightful **farm management simulator** written in Python, teaching the basics of **resource allocation and strategic planning**.  
-- **Tech Stack:** Python  
-- **Features:** Dynamic environment simulation, crop rotation management, and financial tracking  
-[View Repository](#)
+- **Tech Stack:** Python, TKinter  
+- **Features:** Dynamic environment simulation, crop rotation management, and financial tracking.
+**View Repository** @ https://github.com/KiddKailash/Farm-Simulator
 
 ---
 
 ## ⚙️ Skills & Technologies  
 - **Programming:** JavaScript (Functional & Declarative), React, React Native, Python, SQL  
 - **Design Tools:** Figma, Notion, Bootstrap, Material UI  
-- **Research Interests:** Environmental Psychology, Biophilia Hypothesis, Cognitive Therapy  
-- **Development Tools:** GitHub, Netlify, Git, Vite  
+- **Development Tools:** GitHub, Netlify, Git, Vite
 
 ---
 
-## 🛠️ Ongoing Projects  
+## 🛠️ Other Ongoing Projects  
 - **Vintage Caravan Restoration:** Rebuilding a **51-year-old caravan** with modern mechanical upgrades.  
-- **Europe Travel Planner:** Budgeting and planning a **year-long Europe trip** with a focus on economical travel.  
-- **Notion Formulas Optimization:** Enhancing **Notion formulas** for more intuitive productivity management.  
+- **Notion Formulas Optimization:** Enhancing **Notion formulas** for more intuitive productivity management.
 
 ---
 
 ## 📫 Let's Connect!  
-- **Email:** kailash@example.com  
-- **LinkedIn:** [linkedin.com/in/kailashkidd](#)  
-- **Portfolio:** [kailashkidd.com](#)  
+- **Email:** kiddkailash@gmail.com  
+- **LinkedIn:** [linkedin.com/in/kailashkidd](#https://www.linkedin.com/in/kailash-kidd-2979b3331/)  
 
 ---
 

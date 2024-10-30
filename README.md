@@ -8,9 +8,11 @@ Welcome to my GitHub! I'm a **Design & Business Management** student at the Univ
 
 ### 🌐 **Storypath Web**  
 A web platform that allows users to **author and manage** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
+
 **Visit the live website** @ https://storypath.netlify.app/ 
 - **Tech Stack:** React with Vite, RESTful API, Material UI
 - **Features:** Project and location management, AI (chat GPT powered) project management and dynamic content rendering.
+
 [View Repository](https://github.com/KiddKailash/StoryPath---Web.git)
 
 ---
@@ -19,6 +21,7 @@ A web platform that allows users to **author and manage** location-based experie
 An IOS/Android application that allows users to **participate in** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
 - **Tech Stack:** React Native, Expo, RESTful API
 - **Features:** Offline functionality, smooth transitions, and optimized touch interactions  
+
 [View Repository](#)
 
 ---
@@ -27,6 +30,7 @@ An IOS/Android application that allows users to **participate in** location-base
 A SQL project on **database design and query optimization** for real-world applications, to showcase my database construction and manipulation understanding.  
 - **Focus:** Efficient data retrieval and relationship management  
 - **Skills Used:** Complex joins, nested queries, and indexing strategies  
+
 [View Repository](https://github.com/KiddKailash/SQL-DDL-and-DML)
 
 ---
@@ -35,6 +39,7 @@ A SQL project on **database design and query optimization** for real-world appli
 A playful yet insightful **farm management simulator** written in Python, teaching the basics of **resource allocation and strategic planning**.  
 - **Tech Stack:** Python, Tkinter  
 - **Features:** Dynamic environment simulation, crop rotation management, and financial tracking.
+
 [View Repository](https://github.com/KiddKailash/Farm-Simulator)
 
 ---

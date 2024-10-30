@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kailash Kidd!  
 
-Welcome to my GitHub! I'm a **Design (Information Environments) & Business Management student at the University of Queensland**. Here, you’ll find some of my most exciting projects—ranging from **web apps** to **native mobile solutions**, **data management**, and **simulators**.
+Welcome to my GitHub! I'm a **Design & Business Management student** at the University of Queensland. Here, you’ll find some of my most exciting projects—ranging from *websites* to *native mobile solutions*, *data management*, and *an educational simulator*.
 
 ---
 
@@ -11,7 +11,7 @@ A web platform that allows users to **author and manage** location-based experie
 **Visit the live website** @ https://storypath.netlify.app/ 
 - **Tech Stack:** React with Vite, RESTful API, Material UI
 - **Features:** Project and location management, AI (chat GPT powered) project management and dynamic content rendering.
-**View Repository** @ https://github.com/KiddKailash/StoryPath---Web.git
+[View Repository](https://github.com/KiddKailash/StoryPath---Web.git)
 
 ---
 
@@ -27,15 +27,15 @@ An IOS/Android application that allows users to **participate in** location-base
 A SQL project on **database design and query optimization** for real-world applications, to showcase my database construction and manipulation understanding.  
 - **Focus:** Efficient data retrieval and relationship management  
 - **Skills Used:** Complex joins, nested queries, and indexing strategies  
-**View Repository** @ https://github.com/KiddKailash/SQL-DDL-and-DML 
+[View Repository](https://github.com/KiddKailash/SQL-DDL-and-DML)
 
 ---
 
 ### 🚜 **Python Farm Simulator**  
 A playful yet insightful **farm management simulator** written in Python, teaching the basics of **resource allocation and strategic planning**.  
-- **Tech Stack:** Python, TKinter  
+- **Tech Stack:** Python, Tkinter  
 - **Features:** Dynamic environment simulation, crop rotation management, and financial tracking.
-**View Repository** @ https://github.com/KiddKailash/Farm-Simulator
+[View Repository](https://github.com/KiddKailash/Farm-Simulator)
 
 ---
 

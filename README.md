@@ -3,26 +3,23 @@
 Welcome to my GitHub! I'm a **Design & Business Management** student at the University of Queensland. Here, you’ll find some of my most exciting projects—ranging from *websites* to *native mobile solutions*, *data management*, and *an educational simulator*.
 
 ---
-
-## 🌟 Featured Projects  
-
-### 🌐 **Storypath Web**  
-A web platform that allows users to **author and manage** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
-
-**Visit the live website** @ https://storypath.netlify.app/ 
-- **Tech Stack:** React with Vite, RESTful API, Material UI
-- **Features:** Project and location management, AI (chat GPT powered) project management and dynamic content rendering.
-
-[View Repository](https://github.com/KiddKailash/StoryPath---Web.git)
-
----
+## 🛠️ Currently Working On:
 
 ### 📱 **Storypath Native**  
 An IOS/Android application that allows users to **participate in** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
 - **Tech Stack:** React Native, Expo, RESTful API
 - **Features:** Offline functionality, smooth transitions, and optimized touch interactions  
 
-[View Repository](#)
+## 🌟 Featured Projects  
+
+### 🌐 **Storypath Web**  
+A web platform, counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
+
+**Visit the live website** @ https://storypath.netlify.app/ 
+- **Tech Stack:** React with Vite, RESTful API, Material UI
+- **Features:** Project and location management, AI (chat GPT powered) project management and dynamic content rendering.
+
+[View Repository](https://github.com/KiddKailash/StoryPath---Web.git)
 
 ---
 

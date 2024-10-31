@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kailash Kidd!  
 
-Welcome to my GitHub! I'm a **Design & Business Management** student at the University of Queensland. Here, you’ll find some of my most exciting projects—ranging from *websites* to *native mobile solutions*, *data management*, and *an educational simulator*.
+Welcome to my GitHub! I'm an **Interaction Design & Business Management** student at the University of Queensland. Here, you’ll find some of my most exciting projects—ranging from *websites* to *native mobile solutions*, *data management*, and *an educational simulator*.
 
 ---
 ## 🛠️ Currently Working On:

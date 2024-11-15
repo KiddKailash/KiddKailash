@@ -1,19 +1,19 @@
 # 👋 Hello, I'm Kailash Kidd!  
 
-Welcome to my GitHub! I'm an **Interaction Design & Business Management** student at the University of Queensland. Here, you’ll find some of my most exciting projects—ranging from *websites* to *native mobile solutions*, *data management*, and *an educational simulator*.
+Welcome to my GitHub! I'm an **Interaction Design & Business Management** student at the University of Queensland. Here, you’ll find some of my code projects to highlight my skills as a software developer/engineer. 
 
 ---
 ## 🛠️ Currently Working On:
 
 ### 📱 **Storypath Native**  
-An IOS/Android application that allows users to **participate in** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
+An IOS/Android application that allows users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
 - **Tech Stack:** React Native, Expo, RESTful API
 - **Features:** Offline functionality, smooth transitions, and optimized touch interactions  
 
 ## 🌟 Featured Projects  
 
 ### 🌐 **Storypath Web**  
-A web platform, counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (such as museum tours, treasure hunts, and guided explorations).
+A web platform, counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations).
 
 **Visit the live website** @ https://storypath.netlify.app/ 
 - **Tech Stack:** React with Vite, RESTful API, Material UI

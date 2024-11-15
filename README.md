@@ -14,8 +14,7 @@ An IOS/Android application that allows users to **participate in** location-base
 ### 📚 **ClipCard: Create Instant Study Cards**
 ClipCard is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, ClipCard helps students and professionals turn their study materials into interactive flashcards in seconds.
 
-**Visit the Live Website**
-[https://clipcard.netlify.app](https://clipcard.netlify.app)
+**Visit the Live Website** @ [https://clipcard.netlify.app](https://clipcard.netlify.app)
 
 **Tech Stack:** React (hosted on Netlify) with Material UI, Node.js server (hosted on Render), MongoDB database.
 **Features:** AI-Powered Flashcard Generation, User Account Management, Session Management

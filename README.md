@@ -11,6 +11,25 @@ An IOS/Android application that allows users to **participate in** location-base
 - **Features:** Offline functionality, smooth transitions, and optimized touch interactions  
 
 ## 🌟 Featured Projects  
+### **ClipCard: Create Instant Study Cards**
+ClipCard is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, ClipCard helps students and professionals turn their study materials into interactive flashcards in seconds.
+
+**Visit the Live Website**
+[https://clipcard.netlify.app](https://clipcard.netlify.app)
+
+**Tech Stack**
+- **Frontend**: React (hosted on Netlify), Material UI for responsive and accessible design.
+- **Backend**: Node.js server (hosted on Render) integrating OpenAI's GPT-3.5 for flashcard generation.
+- **Database**: MongoDB for user account and flashcard session storage.
+
+**Features**
+- **AI-Powered Flashcard Generation**: Automatically creates flashcards from pasted text or uploaded documents (Word, PDF, etc.).
+- **User Account Management**: Secure authentication and personalized flashcard sessions.
+- **Session Management**: Create, view, rename, and delete flashcard sessions.
+- **Responsive Design**: Optimized for use on desktops, tablets, and mobile devices.
+
+[Backend Repository](https://github.com/KiddKailash/StudyCards--Server)
+
 
 ### 🌐 **Storypath Web**  
 A web platform, counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations).

@@ -1,26 +1,26 @@
 # 👋 Hello, I'm Kailash Kidd!  
 
-Welcome to my GitHub! I'm an **Interaction Design & Business Management** student at the University of Queensland. Here, you’ll find some of my code projects to highlight my skills as a software developer/engineer. 
+Welcome to my GitHub! I'm a **Software Engineering & Business Management** student at the University of Queensland. Here, you’ll find some of my code projects to highlight my skills as a software developer/engineer. 
 
 ---
 ## 🛠️ Currently Working On:
-
-### 📱 **Storypath Native**  
-An IOS/Android application that allows users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
-- **Tech Stack:** React Native, Expo, RESTful API
-- **Features:** Offline functionality, smooth transitions, and optimized touch interactions  
-
-## 🌟 Featured Projects  
 ### 📚 **ClipCard: Create Instant Study Cards**
 ClipCard is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, ClipCard helps students and professionals turn their study materials into interactive flashcards in seconds.
 
-**Visit the Live Website** @ [https://clipcard.netlify.app](https://clipcard.netlify.app)
+I am hesitant to make the front-end code repository public. In lieu of this, **Visit the Live Website** @ [https://clipcard.netlify.app](https://clipcard.netlify.app)
 
 **Tech Stack:** React (hosted on Netlify) with Material UI, Node.js server (hosted on Render), MongoDB database.
-**Features:** AI-Powered Flashcard Generation, User Account Management, Session Management
+**Features:** AI-Powered Flashcard Generation, User Account Management, Session Management.
 
 [View Backend Repository](https://github.com/KiddKailash/StudyCards--Server)
 
+
+## 🌟 Featured Projects  
+### 📱 **Storypath Native**  
+An IOS/Android application that allows users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
+- **Tech Stack:** React Native, Expo, RESTful API
+- **Features:** Offline functionality, smooth transitions, and optimized touch interactions
+  
 ---
 
 ### 🌐 **Storypath Web**  

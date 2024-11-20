@@ -21,6 +21,7 @@ ClipCard is a website that allows users to upload documents, copy/paste text, an
 
 [View Backend Repository](https://github.com/KiddKailash/StudyCards--Server)
 
+---
 
 ### 🌐 **Storypath Web**  
 A web platform, counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations).

@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Kailash Kidd!  
 
-Welcome to my GitHub! I'm a **Software Engineering & Business Management** student at the University of Queensland. Here, you’ll find some of my code projects to highlight my skills as a software developer/engineer. 
+Welcome to my GitHub! I'm a **Software Engineering & Business Management** student at the University of Queensland. Here, you’ll find some of my code projects to highlight my skills as a software developer/engineer:
 
----
 ## 🛠️ Currently Working On:
 ### 📚 **ClipCard: Create Instant Study Cards**
 ClipCard is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, ClipCard helps students and professionals turn their study materials into interactive flashcards in seconds.

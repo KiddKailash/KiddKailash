@@ -8,8 +8,8 @@ ClipCard is a website that allows users to upload documents, copy/paste text, an
 
 I am hesitant to make the front-end code repository public. In lieu of this, [visit the website](https://clipcard.netlify.app).
 
-**Tech Stack:** React (hosted on Netlify) with Material UI, Node.js server (hosted on Render), MongoDB database.
-**Features:** AI-Powered Flashcard Generation, User Account Management, Session Management.
+- **Tech Stack:** React (hosted on Netlify) with Material UI, Node.js server (hosted on Render), MongoDB database.
+- **Features:** AI-Powered Flashcard Generation, User Account Management, Session Management.
 
 [View Backend Repository](https://github.com/KiddKailash/StudyCards--Server)
 

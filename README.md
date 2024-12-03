@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kailash Kidd!  
 
-Welcome to my GitHub! I'm a Bachelor of **Design *majoring in Information Environments* & Business Management** student at the University of Queensland. Here, you’ll find some of my code projects to highlight my skills as a software developer/engineer:
+Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)* & Business Management** student at the University of Queensland. Here, you’ll find some of my code projects to highlight my skills as a software developer/engineer:
 
 ## 🛠️ Currently Working On:
 ### 📚 **ClipCard: Create Instant Study Cards**

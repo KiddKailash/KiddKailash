@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a Bachelor of **Design *majoring in Information Enviro
 ### 📚 **ClipCard: Create Instant Study Cards**
 ClipCard is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, ClipCard helps students and professionals turn their study materials into interactive flashcards in seconds.
 
-I am hesitant to make the front-end code repository public. In lieu of this, [visit the website](https://clipcard.netlify.app).
+I am hesitant to make the front-end code repository public. In lieu of this, please visit [the production website](https://clipcard.netlify.app).
 
 - **Tech Stack:** React (hosted on Netlify) with Material UI, Node.js server (hosted on Render), MongoDB database.
 - **Features:** AI-Powered Flashcard Generation, User Account Management, Session Management.

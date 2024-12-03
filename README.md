@@ -19,6 +19,7 @@ I am hesitant to make the front-end code repository public. In lieu of this, [vi
 An IOS/Android application that allows users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
 - **Tech Stack:** React Native, Expo, RESTful API
 - **Features:** Offline functionality, smooth transitions, and optimized touch interactions
+
 [View Repository](https://github.com/KiddKailash/StoryPath---Native)
   
 ---

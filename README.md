@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)*
 
 ## 🛠️ Currently Working On:
 ### 📈 **Automated Stock Trading**
-A Node.js application automating value investor Joel Greenblatt’s Magic Formula strategy for stock trading, as outlined in ***the little book that (still) beats the market***. The application ranks stocks based on earnings yield and return on capital, places quarterly buy orders, and manages (sells) positions daily.
+A server-hosted application automating value investor Joel Greenblatt’s Magic Formula strategy for stock trading, as outlined in ***the little book that (still) beats the market***. The application ranks stocks based on earnings yield and return on capital, places quarterly buy orders, and manages (sells) positions daily.
 
 - **Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
 - **Features:** Automated portfolio rebalancing, email alerts, and robust error handling  

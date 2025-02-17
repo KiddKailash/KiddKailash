@@ -3,12 +3,12 @@
 Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)* & Business Management** student at the University of Queensland. Here, you will find some of my code projects to highlight my skills as a full-stack software developer/engineer.
 
 ## 🛠️ Currently Working On:
-### 📚 **ClipCard: Create Instant Study Cards**
-ClipCard is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, ClipCard helps students and professionals turn their study materials into interactive flashcards in seconds.
+### 📚 **StudyBuddy.ai - Create Instant Study Cards**
+StudyBuddy is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds.
 
 I am hesitant to make the front-end code repository public. In lieu of this, please visit [the production website](https://clipcard.netlify.app).
 
-- **Tech Stack:** React (hosted on Netlify) with Material UI, Node.js server (hosted on Render), MongoDB database.
+- **Tech Stack:** React (hosted on Netlify) with Material UI, Node.js server (hosted on DigitalOcean), MongoDB database, Stripe payment gateway via webhooks.
 - **Features:** AI-Powered Flashcard Generation, User Account Management, Session Management.
 
 [View Backend Repository](https://github.com/KiddKailash/StudyCards--Server)

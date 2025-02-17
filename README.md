@@ -2,16 +2,6 @@
 
 Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)* & Business Management** student at the University of Queensland. Here, you will find some of my code projects to highlight my skills as a full-stack software developer/engineer.
 
-## 🛠️ Currently Working On:
-### 📈 **Automated Stock Trading**
-A server-hosted application automating value investor Joel Greenblatt’s Magic Formula strategy for stock trading, as outlined in ***the little book that (still) beats the market***. The application ranks stocks based on earnings yield and return on capital, places quarterly buy orders, and manages (sells) positions daily.
-
-- **Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
-- **Features:** Automated portfolio rebalancing, email alerts, and robust error handling  
-
-[View Repository](https://github.com/KiddKailash/automated-stock-trading)
-
-
 ## 🌟 Featured Projects  
 ### 📚 **StudyBuddy.ai - Create Instant Study Cards**
 StudyBuddy is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds.
@@ -52,12 +42,14 @@ A SQL project on **database design and query optimization** for real-world appli
 
 ---
 
-### 🚜 **Python Farm Simulator**  
-A playful yet insightful **farm management simulator** written in Python, teaching the basics of **resource allocation and strategic planning**.  
-- **Tech Stack:** Python, Tkinter  
-- **Features:** Dynamic environment simulation, crop rotation management, and financial tracking.
+## 🛠️ Currently Working On:
+### 📈 **Automated Stock Trading**
+A server-hosted application automating value investor Joel Greenblatt’s Magic Formula strategy for stock trading, as outlined in ***the little book that (still) beats the market***. The application ranks stocks based on earnings yield and return on capital, places quarterly buy orders, and manages (sells) positions daily.
 
-[View Repository](https://github.com/KiddKailash/Farm-Simulator)
+- **Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
+- **Features:** Automated portfolio rebalancing, email alerts, and robust error handling  
+
+[View Repository](https://github.com/KiddKailash/automated-stock-trading)
 
 ---
 

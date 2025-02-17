@@ -3,6 +3,16 @@
 Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)* & Business Management** student at the University of Queensland. Here, you will find some of my code projects to highlight my skills as a full-stack software developer/engineer.
 
 ## 🛠️ Currently Working On:
+### 📈 **Automated Stock Trading**
+A Node.js application automating value investor Joel Greenblatt’s Magic Formula strategy for stock trading, as outlined in ***the little book that (still) beats the market***. The application ranks stocks based on earnings yield and return on capital, places quarterly buy orders, and manages (sells) positions daily.
+
+- **Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
+- **Features:** Automated portfolio rebalancing, email alerts, and robust error handling  
+
+[View Repository](https://github.com/KiddKailash/automated-stock-trading)
+
+
+## 🌟 Featured Projects  
 ### 📚 **StudyBuddy.ai - Create Instant Study Cards**
 StudyBuddy is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds.
 
@@ -13,16 +23,14 @@ I am hesitant to make the front-end code repository public. In lieu of this, ple
 
 [View Backend Repository](https://github.com/KiddKailash/StudyCards--Server)
 
+---
 
-## 🌟 Featured Projects  
 ### 📱 **Storypath Native**  
 An IOS/Android application that allows users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
 - **Tech Stack:** React Native, Expo, RESTful API
 - **Features:** Offline functionality, smooth transitions, and optimized touch interactions
 
 [View Repository](https://github.com/KiddKailash/StoryPath---Native)
-  
----
 
 ### 🌐 **Storypath Web**  
 A web platform, counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations).

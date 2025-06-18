@@ -31,15 +31,6 @@ A web platform, counterpart to StoryPath Native, that allows users to **author a
 
 ---
 
-### 🗄️ **SQL Project**  
-A SQL project on **database design and query optimization** for real-world applications, to showcase my database construction and manipulation understanding.  
-- **Focus:** Efficient data retrieval and relationship management  
-- **Skills Used:** Complex joins, nested queries, and indexing strategies  
-
-[View Repository](https://github.com/KiddKailash/SQL-DDL-and-DML)
-
----
-
 ## 🛠️ Currently Working On:
 ### 📈 **Automated Stock Trading**
 A server-hosted application automating value investor Joel Greenblatt’s Magic Formula strategy for stock trading, as outlined in ***the little book that (still) beats the market***. The application ranks stocks based on earnings yield and return on capital, places quarterly buy orders, and manages (sells) positions daily.
@@ -51,16 +42,9 @@ A server-hosted application automating value investor Joel Greenblatt’s Magic 
 
 ---
 
-## ⚙️ Skills & Technologies  
-- **Programming:** JavaScript (Functional & Declarative), React, React Native, Python, SQL  
-- **Design Tools:** Figma, Notion, Bootstrap, Material UI  
-- **Development Tools:** GitHub, Netlify, Git, Vite
-
----
-
 ## 🛠️ Other Ongoing Projects  
 - **Vintage Caravan Restoration:** Rebuilding a **51-year-old caravan** with modern mechanical upgrades.  
-- **Notion Formulas Optimization:** Enhancing **Notion formulas** for more intuitive productivity management.
+- **Notion Templates:** Enhancing **Notion formulas** for more intuitive productivity management.
 
 ---
 

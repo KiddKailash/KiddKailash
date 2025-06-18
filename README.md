@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)*
 
 ## 🛠️ Currently Working On:
 ### **Vellum Financial Services**
-B2B platform built for financial advisers, made to streamline necessary contract writing for clients of these firms. Uses LLMs to parse data from client documents to be written into a .docx file, per firm requirements. Visit [the production website](https://vellum-iota.vercel.app/). 
+B2B platform built for financial advisers, made to streamline necessary contract writing for clients of these firms. Uses LLMs to parse data from client documents to be written into a .docx file, per firm requirements. Visit the [production website](https://vellum-iota.vercel.app/). 
 
 **Tech Stack:** TypseScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
 
@@ -17,7 +17,7 @@ A Node.js application built for personal use, which automates Joel Greenblatt’
 [View Repository](https://github.com/KiddKailash/automated-stock-trading)
 
 ### 📚 **StudyBuddy.ai - Create Instant Study Cards**
-B2C platform built for tertiary students, made to understand information from a range of sources (uploaded documents, pasted text) to generate study cards. Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. In the pipeline: multiple choice quizzes, project organisation, and document summaries. Visit [the production website](https://clipcard.netlify.app/landing-page?lng=en).
+B2C platform built for tertiary students, made to understand information from a range of sources (uploaded documents, pasted text) to generate study cards. Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. In the pipeline: multiple choice quizzes, project organisation, and document summaries. Visit the [production website](https://clipcard.netlify.app/landing-page?lng=en).
 
 **Tech Stack:** React frontend (hosted on Netlify), Node.js server + MongoDB database (hosted on DigitalOcean), Stripe payment gateway via webhooks.
 
@@ -33,7 +33,7 @@ An IOS/Android application for users to **participate in** location-based experi
 [View Repository](https://github.com/KiddKailash/StoryPath---Native)
 
 ### 🌐 **Storypath Web**  
-Counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations). Visit [the production website](https://storypath.netlify.app/).
+Counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations). Visit the [production website](https://storypath.netlify.app/).
 
 **Tech Stack:** React (with Vite), RESTful API, Material UI
 

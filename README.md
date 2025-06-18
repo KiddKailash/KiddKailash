@@ -2,43 +2,45 @@
 
 Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)* & Business Management** student at the University of Queensland. Here, you will find projects that highlight my skills as a full-stack software developer/engineer.
 
-## 🌟 Featured Projects  
-### 📚 **StudyBuddy.ai - Create Instant Study Cards**
-StudyBuddy is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. Please visit [the production website](https://clipcard.netlify.app/landing-page?lng=en).
+## 🛠️ Currently Working On:
+### **Vellum Financial Services**
+A B2B platform built for financial advisers and para-planners, made to streamline and simplify necessary contract writing for clients of these firms. Uses LLM technology to parse data from supplied client documents, and transforms this information into a Word .docx file per individual firm requirements. 
+Visit [the production website](https://vellum-iota.vercel.app/).
 
-- **Tech Stack:** React (hosted on Netlify) with Material UI, Node.js server (hosted on DigitalOcean), MongoDB database, Stripe payment gateway via webhooks.
-- **Features:** AI-Powered Flashcard Generation, User Account Management, Session Management.
+- **Tech Stack:** TypseScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
+
+## 🌟 Prior Projects  
+### 📈 **Automated Stock Trading**
+An application automating value investor Joel Greenblatt’s Magic Formula, as outlined in ***the little book that (still) beats the market***. The application ranks stocks by earnings yield and return on capital, places quarterly buy orders, and sells positions annually. Provides portfolio rebalancing, email alerts, and robust error handling
+
+- **Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
+
+[View Repository](https://github.com/KiddKailash/automated-stock-trading)
+
+### 📚 **StudyBuddy.ai - Create Instant Study Cards**
+StudyBuddy is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. 
+Visit [the production website](https://clipcard.netlify.app/landing-page?lng=en).
+
+- **Tech Stack:** React frontend (hosted on Netlify), Node.js server + MongoDB database (hosted on DigitalOcean), Stripe payment gateway via webhooks.
 
 [View Repository](https://github.com/KiddKailash/StudyBuddy/tree/develop)
 
 ---
 
 ### 📱 **Storypath Native**  
-An IOS/Android application that allows users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
-- **Tech Stack:** React Native, Expo, RESTful API
-- **Features:** Offline functionality, smooth transitions, and optimized touch interactions
+An IOS/Android application for users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
+
+- **Tech Stack:** React Native, Expo
 
 [View Repository](https://github.com/KiddKailash/StoryPath---Native)
 
 ### 🌐 **Storypath Web**  
-A web platform, counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations).
+Counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations). Visit [the production website](https://storypath.netlify.app/)
 
-**Visit the live website** @ https://storypath.netlify.app/ 
 - **Tech Stack:** React with Vite, RESTful API, Material UI
-- **Features:** Project and location management, AI (chat GPT powered) project management and dynamic content rendering.
+- **Features:** Project and location management, AI (via chatGPT API) project management.
 
 [View Repository](https://github.com/KiddKailash/StoryPath---Web.git)
-
----
-
-## 🛠️ Currently Working On:
-### 📈 **Automated Stock Trading**
-A server-hosted application automating value investor Joel Greenblatt’s Magic Formula strategy for stock trading, as outlined in ***the little book that (still) beats the market***. The application ranks stocks based on earnings yield and return on capital, places quarterly buy orders, and manages (sells) positions daily.
-
-- **Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
-- **Features:** Automated portfolio rebalancing, email alerts, and robust error handling  
-
-[View Repository](https://github.com/KiddKailash/automated-stock-trading)
 
 ---
 

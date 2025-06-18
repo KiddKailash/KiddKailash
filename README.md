@@ -4,24 +4,20 @@ Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)*
 
 ## 🛠️ Currently Working On:
 ### **Vellum Financial Services**
-Visit [the production website](https://vellum-iota.vercel.app/).
-
-A B2B platform built for financial advisers and para-planners, made to streamline and simplify necessary contract writing for clients of these firms. Uses LLM technology to parse data from supplied client documents, and transforms this information into a Word .docx file per individual firm requirements. 
+B2B platform built for financial advisers, made to streamline necessary contract writing for clients of these firms. Uses LLMs to parse data from client documents to be written into a .docx file, per firm requirements. Visit [the production website](https://vellum-iota.vercel.app/). 
 
 **Tech Stack:** TypseScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
 
 ## 🌟 Prior Projects  
 ### 📈 **Automated Stock Trading**
-An application automating value investor Joel Greenblatt’s Magic Formula, as outlined in ***the little book that (still) beats the market***. The application ranks stocks by earnings yield and return on capital, places quarterly buy orders, and sells positions annually. Provides portfolio rebalancing, email alerts, and robust error handling
+A Node.js application built for personal use, which automates Joel Greenblatt’s Magic Investment Formula, as outlined in ***the little book that (still) beats the market***. The application ranks stocks by earnings yield and ROC to place quarterly buy orders and assesses daily whether positions ought to be sold. Provides portfolio rebalancing, email alerts, and a dashboard for system monitoring. 
 
 **Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
 
 [View Repository](https://github.com/KiddKailash/automated-stock-trading)
 
 ### 📚 **StudyBuddy.ai - Create Instant Study Cards**
-Visit [the production website](https://clipcard.netlify.app/landing-page?lng=en).
-
-StudyBuddy is a website that allows users to upload documents, copy/paste text, and instantly **generate study flashcards** using AI. Designed for ease of use and efficiency, Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. 
+B2C platform built for tertiary students, made to understand information from a range of sources (uploaded documents, pasted text) to generate study cards. Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. In the pipeline: multiple choice quizzes, project organisation, and document summaries. Visit [the production website](https://clipcard.netlify.app/landing-page?lng=en).
 
 **Tech Stack:** React frontend (hosted on Netlify), Node.js server + MongoDB database (hosted on DigitalOcean), Stripe payment gateway via webhooks.
 
@@ -37,12 +33,9 @@ An IOS/Android application for users to **participate in** location-based experi
 [View Repository](https://github.com/KiddKailash/StoryPath---Native)
 
 ### 🌐 **Storypath Web**  
-Visit [the production website](https://storypath.netlify.app/).
-
-Counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations).
+Counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations). Visit [the production website](https://storypath.netlify.app/).
 
 **Tech Stack:** React (with Vite), RESTful API, Material UI
-**Features:** Project and location management, AI (via chatGPT API) project management.
 
 [View Repository](https://github.com/KiddKailash/StoryPath---Web.git)
 

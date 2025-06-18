@@ -10,7 +10,7 @@ B2B platform built for financial advisers, made to streamline necessary contract
 
 ## 🌟 Prior Projects  
 ### 📈 **Automated Stock Trading**
-A Node.js application built for personal use, which automates Joel Greenblatt’s Magic Investment Formula, as outlined in ***the little book that (still) beats the market***. The application ranks stocks by earnings yield and ROC to place quarterly buy orders and assesses daily whether positions ought to be sold. Provides portfolio rebalancing, email alerts, and a dashboard for system monitoring. 
+A Node.js application built for personal use, which automates Joel Greenblatt’s Magic Investment Formula, as outlined in *the little book that (still) beats the market*. The application ranks stocks by earnings yield and ROC to place quarterly buy orders and assesses daily whether positions ought to be sold. Provides portfolio rebalancing, email alerts, and a dashboard for system monitoring. 
 
 **Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
 

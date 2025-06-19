@@ -16,7 +16,7 @@ A Node.js application built for personal use, which automates Joel Greenblatt’
 
 [View Repository](https://github.com/KiddKailash/automated-stock-trading)
 
-### **StudyBuddy.ai**: Create Instant Study Cards
+### **StudyBuddy.ai**
 B2C platform built for tertiary students, made to understand information from a range of sources (uploaded documents, pasted text) to generate study cards. Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. In the pipeline: multiple choice quizzes, project organisation, and document summaries. Visit the [production website](https://clipcard.netlify.app/landing-page?lng=en).
 
 **Tech Stack:** React frontend (hosted on Netlify), Node.js server + MongoDB database (hosted on DigitalOcean), Stripe payment gateway via webhooks.

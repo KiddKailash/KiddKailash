@@ -17,7 +17,7 @@ B2C platform built for tertiary students, made to understand information from a 
 [View Repository](https://github.com/KiddKailash/StudyBuddy/tree/develop)
 
 ### **LearnABLE**
-A project, built as part of a team of 6, which uses emerging AI technologies to tailor educational material for students with learning consideration in primary and secondaery school setting (Grades 2 -> 10). Aligns with V7 of the Australian Curriculum, as well as with UDL Design for Learning Principles. 
+A platform, built for use by primary and secondary teachers, which uses emerging AI technologies to tailor educational material for students with learning considerations (Grades 2 -> 10). Aligns with V7 of the Australian Curriculum, and with UDL design for learning principles. 
 
 **Tech Stack:** React frontend (hosted with Vercel), Django backend (hosted on DigitalOcean), OpenRouter
 

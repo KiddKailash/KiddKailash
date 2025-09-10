@@ -1,6 +1,6 @@
-# Hello, I'm Kailash Kidd!  
+# 👋🏽 Hello, I'm Kailash Kidd
 
-Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)* and Business Management** student at the University of Queensland. Here, you will find projects that showcase my skills as a full-stack software developer and engineer.
+Welcome to my GitHub! I'm a Bachelor of **Design *(Information Environments)* and Business Management** student at the University of Queensland. Here, you will find projects that showcase my skills as a full-stack software  engineer.
 
 ## Currently Working On
 ### **Vellum Financial Services**

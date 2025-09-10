@@ -9,19 +9,19 @@ B2B platform built for financial advisers, made to streamline necessary contract
 **Tech Stack:** TypseScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
 
 ## Prior Projects  
-### **Automated Stock Trading**
-A Node.js application built for personal use, which automates Joel Greenblatt’s Magic Investment Formula, as outlined in *the little book that (still) beats the market*. The application ranks stocks by earnings yield and ROC to place quarterly buy orders and assesses daily whether positions ought to be sold. Provides portfolio rebalancing, email alerts, and a dashboard for system monitoring. 
-
-**Tech Stack:** Node.js (with Alpaca API), FinancialModelingPrep, SQLite, Nodemailer  
-
-[View Repository](https://github.com/KiddKailash/automated-stock-trading)
-
 ### **StudyBuddy.ai**
 B2C platform built for tertiary students, made to understand information from a range of sources (uploaded documents, pasted text) to generate study cards. Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. In the pipeline: multiple choice quizzes, project organisation, and document summaries. Visit the [production website](https://clipcard.netlify.app/landing-page?lng=en).
 
 **Tech Stack:** React frontend (hosted on Netlify), Node.js server + MongoDB database (hosted on DigitalOcean), Stripe payment gateway via webhooks.
 
 [View Repository](https://github.com/KiddKailash/StudyBuddy/tree/develop)
+
+### **LearnABLE**
+A project, built as part of a team of 6, which uses emerging AI technologies to tailor educational material for students with learning consideration in primary and secondaery school setting (Grades 2 -> 10). Aligns with V7 of the Australian Curriculum, as well as with UDL Design for Learning Principles. 
+
+**Tech Stack:** React frontend (hosted with Vercel), Django backend (hosted on DigitalOcean), OpenRouter
+
+[View Repository](https://github.com/KiddKailash/LearnABLE)
 
 ---
 

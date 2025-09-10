@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a Bachelor of **Design *(in Information Environments)* and Business Management** student at the University of Queensland. Here, you will find projects that showcase my skills as a full-stack software developer and engineer.
 
-## Currently Working On:
+## Currently Working On
 ### **Vellum Financial Services**
 B2B platform built for financial advisers, made to streamline necessary contract writing for clients of these firms. Uses LLMs to parse data from client documents to be written into a .docx file, per firm requirements. Visit the [production website](https://vellum-iota.vercel.app/). 
 

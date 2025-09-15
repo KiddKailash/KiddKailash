@@ -8,7 +8,14 @@ B2B platform built for financial advisers, made to streamline necessary contract
 
 **Tech Stack:** TypseScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
 
-## Prior Projects  
+## Prior Projects 
+### **Morning Brief**
+An automated morning newsletter service that gathers news from multiple sources, generates articles with AI, adds market data and images, and delivers polished newsletters to subscribers—all in 1–2 minutes. Aggregates top news articles across 7 categories, enriches content with market data and images, then creates a polished HTML newsletter before sending to subscribers. Visit a [system-generated newsletter](https://morning-brief-66541p5d1-kailashs-projects-1ccb175a.vercel.app/example/newsletter-categorized-preview-2025-09-09T08-27-08).
+
+**Tech Stack**: Node.js/TypeScript backend with Gmail SMTP delivery, Google News API, OpenAI/Anthropic for content generation, multiple financial data APIs (FMP, Polygon, Alpha Vantage), Unsplash.
+
+[View Repository](https://github.com/KiddKailash/MorningBrief)
+  
 ### **StudyBuddy.ai**
 B2C platform built for tertiary students, made to understand information from a range of sources (uploaded documents, pasted text) to generate study cards. Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. In the pipeline: multiple choice quizzes, project organisation, and document summaries. Visit the [production website](https://clipcard.netlify.app/landing-page?lng=en).
 

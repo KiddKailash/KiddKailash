@@ -10,7 +10,7 @@ B2B platform built for financial advisers, made to streamline necessary contract
 
 ## Prior Projects 
 ### **Morning Brief**
-An automated morning newsletter service that gathers news from multiple sources, generates articles with AI, adds market data and images, and delivers polished newsletters to subscribers—all in 1–2 minutes. Aggregates top news articles across 7 categories, enriches content with market data and images, then creates a polished HTML newsletter before sending to subscribers. Visit an [example](https://morning-brief-66541p5d1-kailashs-projects-1ccb175a.vercel.app/example/newsletter-categorized-preview-2025-09-09T08-27-08).
+An automated morning newsletter service that gathers news from multiple sources, generates articles with AI, adds market data and images, and delivers polished newsletters to subscribers—all in 1–2 minutes. Visit an [example](https://morning-brief-66541p5d1-kailashs-projects-1ccb175a.vercel.app/example/newsletter-categorized-preview-2025-09-09T08-27-08).
 
 **Tech Stack**: Node.js/TypeScript backend with Gmail SMTP delivery, Google News API, OpenAI/Anthropic for content generation, multiple financial data APIs (FMP, Polygon, Alpha Vantage), Unsplash.
 

@@ -1,14 +1,19 @@
 # 👋🏽 Hello, I'm Kailash Kidd
 
-Welcome to my GitHub! I'm a Bachelor of **Design *(Information Environments)* and Business Management** student at the University of Queensland. Here, you will find projects that showcase my skills as a full-stack software  engineer.
+Welcome to my GitHub! I'm a software engineer with dual degrees in **Information Environments** and **Business Economics** from the University of Queensland. Here, you'll find projects that showcase my skills as a full-stack developer, with a focus on AI integration and user-centric design.
 
 ## Currently Working On
-### **Vellum Financial Services**
-B2B platform built for financial advisers, made to streamline necessary contract writing for clients of these firms. Uses LLMs to parse data from client documents to be written into a .docx file, per firm requirements. Visit the [production website](https://vellum-iota.vercel.app/). 
 
-**Tech Stack:** TypseScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
+### **Suncorp Group (Insurance)**
+Building internal systems for automating vehicle fleet insurance quoting for large commercial customers. Working with business process analysts to identify and automate processes with the largest cost/savings impact.
+
+### **Vellum Financial Services**
+B2B platform built for financial advisers to streamline contract writing for their clients. Uses LLMs to parse data from client documents and generate compliant .docx files per firm requirements. Visit the [production website](https://vellum-iota.vercel.app/).
+
+**Tech Stack:** TypeScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
 
 ## Prior Projects 
+
 ### **Morning Brief**
 An automated morning newsletter service that gathers news from multiple sources, generates articles with AI, adds market data and images, and delivers polished newsletters to subscribers—all in 1–2 minutes. Visit an [example newsletter](https://morning-brief-66541p5d1-kailashs-projects-1ccb175a.vercel.app/example/newsletter-categorized-preview-2025-09-09T08-27-08).
 
@@ -17,14 +22,14 @@ An automated morning newsletter service that gathers news from multiple sources,
 [View Repository](https://github.com/KiddKailash/MorningBrief)
   
 ### **StudyBuddy.ai**
-B2C platform built for tertiary students, made to understand information from a range of sources (uploaded documents, pasted text) to generate study cards. Studybuddy helps students and professionals turn their resources into interactive flashcards in seconds. In the pipeline: multiple choice quizzes, project organisation, and document summaries. Visit the [production website](https://clipcard.netlify.app/landing-page?lng=en).
+B2C platform for tertiary students to transform their resources into interactive flashcards in seconds. Supports uploaded documents and pasted text, with AI-powered content parsing. In the pipeline: multiple choice quizzes, project organisation, and document summaries. Visit the [production website](https://clipcard.netlify.app/landing-page?lng=en).
 
 **Tech Stack:** React frontend (hosted on Netlify), Node.js server + MongoDB database (hosted on DigitalOcean), Stripe payment gateway via webhooks.
 
 [View Repository](https://github.com/KiddKailash/StudyBuddy/tree/develop)
 
 ### **LearnABLE**
-A platform, built for use by primary and secondary teachers, which uses emerging AI technologies to tailor educational material for students with learning considerations (Grades 2 -> 10). Aligns with V7 of the Australian Curriculum, and with UDL design for learning principles. 
+A platform for primary and secondary teachers that uses AI to tailor educational material for students with learning considerations (Grades 2–10). Aligns with V7 of the Australian Curriculum and UDL design principles.
 
 **Tech Stack:** React frontend (hosted with Vercel), Django backend (hosted on DigitalOcean), OpenRouter
 
@@ -32,15 +37,15 @@ A platform, built for use by primary and secondary teachers, which uses emerging
 
 ---
 
-### **Storypath: Ios/Android**  
-An IOS/Android application for users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
+### **Storypath: iOS/Android**  
+An iOS/Android application for users to **participate in** location-based experiences (museum tours, treasure hunts, and guided explorations).
 
 **Tech Stack:** React Native, Expo
 
 [View Repository](https://github.com/KiddKailash/StoryPath---Native)
 
 ### **Storypath: Web**  
-Counterpart to StoryPath Native, that allows users to **author and manage** location-based experiences (museum tours, treasure hunts, and guided explorations). Visit the [production website](https://storypath.netlify.app/).
+Counterpart to StoryPath Native, allowing users to **author and manage** location-based experiences. Visit the [production website](https://storypath.netlify.app/).
 
 **Tech Stack:** React (with Vite), RESTful API, Material UI
 
@@ -49,12 +54,11 @@ Counterpart to StoryPath Native, that allows users to **author and manage** loca
 ---
 
 ## Other Ongoing Projects  
-- **Vintage Caravan Restoration:** Rebuilding a **51-year-old caravan** with modern upgrades.  
-- **Notion Templates:** Building Notion templates for listing on the Notion template store for public use.
+- **Vintage Caravan Restoration:** Rebuilding a 51-year-old caravan with modern upgrades.  
+- **Notion Templates:** Building Notion templates for the Notion template store.
 
 ---
 
 ## Get In Contact
 - **Email:** kiddkailash@gmail.com  
-- **LinkedIn:** [linkedin.com/in/kailashkidd](https://www.linkedin.com/in/kailash-kidd-2979b3331/)  
-
+- **LinkedIn:** [linkedin.com/in/kailashkidd](https://www.linkedin.com/in/kailash-kidd-2979b3331/)

@@ -10,7 +10,7 @@ Building internal systems for automating vehicle fleet insurance quoting for lar
 ### **AnalyseWallSt**
 A system that uses large language models to analyse public companies using the latest SEC filings + company financial performance. This is an end-to-end personal investment research tool (built to suit myself). Visit the [production website](https://analysewallst.cc), and use the credentials: (NewUser / Password!0). 
 
-**Tech Stack:** Django server + PostgreSQL database, React frontend, [OpenRouter](https://openrouter.ai/), all self hosted on a Raspberry Pi 5 with Cloudflare + Nginx.
+**Tech Stack:** Django server + PostgreSQL, React, [OpenRouter](https://openrouter.ai/), self hosted on a Raspberry Pi 5 with Cloudflare + Nginx.
 
 ## Prior Projects 
 

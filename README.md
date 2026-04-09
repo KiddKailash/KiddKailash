@@ -7,12 +7,17 @@ Welcome to my GitHub! I'm a software engineer with dual degrees in **Information
 ### **Suncorp Group (Insurance)**
 Building internal systems for automating vehicle fleet insurance quoting for large commercial customers. Working with business process analysts to identify and automate processes with the largest cost/savings impact.
 
+### **AnalyseWallSt**
+A system that uses large language models to analyse public companies using the latest SEC filings + company financial performance. This is an end-to-end personal investment research tool (built to suit myself). Visit the [production website](https://analysewallst.cc), and use the credentials: (NewUser / Password!0). 
+
+**Tech Stack:** Django server + PostgreSQL database, React frontend, [OpenRouter](https://openrouter.ai/), all self hosted on a Raspberry Pi 5 with Cloudflare + Nginx.
+
+## Prior Projects 
+
 ### **Vellum Financial Services**
 B2B platform built for financial advisers to streamline contract writing for their clients. Uses LLMs to parse data from client documents and generate compliant .docx files per firm requirements. Visit the [production website](https://vellum-iota.vercel.app/).
 
 **Tech Stack:** TypeScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
-
-## Prior Projects 
 
 ### **Morning Brief**
 An automated morning newsletter service that gathers news from multiple sources, generates articles with AI, adds market data and images, and delivers polished newsletters to subscribers—all in 1–2 minutes. Visit an [example newsletter](https://morning-brief-66541p5d1-kailashs-projects-1ccb175a.vercel.app/example/newsletter-categorized-preview-2025-09-09T08-27-08).

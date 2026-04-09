@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a software engineer with dual degrees in **Information
 Building internal systems for automating vehicle fleet insurance quoting for large commercial customers. Working with business process analysts to identify and automate processes with the largest cost/savings impact.
 
 ### **AnalyseWallSt**
-A system that uses large language models to analyse public companies using the latest SEC filings + company financial performance. This is an end-to-end personal investment research tool (built to suit myself). Visit the [production website](https://analysewallst.cc), and use the credentials: (NewUser / Password!0). 
+A system that uses large language models to analyse public companies using the latest SEC filings + company financial performance. This is an end-to-end personal investment research tool (built to suit myself). Visit the [production website](https://analysewallst.cc), with credentials: (ExampleUser / Password!0). 
 
 **Tech Stack:** Django server + PostgreSQL, React, [OpenRouter](https://openrouter.ai/), self hosted on a Raspberry Pi 5 with Cloudflare + Nginx.
 

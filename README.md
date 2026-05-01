@@ -8,14 +8,14 @@ Welcome to my GitHub! I'm a software engineer with dual degrees in **Information
 Building internal systems for automating vehicle fleet insurance quoting for large commercial customers. Working with business process analysts to identify and automate processes with the largest cost/savings impact.
 
 ### **AnalyseWallSt**
-A system that uses large language models to analyse public companies using the latest SEC filings + company financial performance. This is an end-to-end personal investment research tool (built to suit myself). Visit the [production website](https://analysewallst.cc), with credentials: (ExampleUser / Password!0). 
+A system that uses large language models to analyse public companies using the latest SEC filings + company financial performance. This is an end-to-end personal investment research tool (built to suit myself). Visit the [production website](https://analysewallst.cc), with credentials: (User: AnalyseWallSt / Pass: LLMsRule!). 
 
 **Tech Stack:** Django server + PostgreSQL, React, [OpenRouter](https://openrouter.ai/), self hosted on a Raspberry Pi 5 with Cloudflare + Nginx.
 
 ## Prior Projects 
 
 ### **Vellum Financial Services**
-B2B platform built for financial advisers to streamline contract writing for their clients. Uses LLMs to parse data from client documents and generate compliant .docx files per firm requirements. Visit the [production website](https://vellum-iota.vercel.app/).
+B2B platform built to help financial advisers streamline contract writing for their clients. Uses LLMs to parse data from client documents and generate compliant .docx files per firm requirements. Visit the [production website](https://vellum-iota.vercel.app/).
 
 **Tech Stack:** TypeScript/Node.js server + PostgreSQL database (hosted with DigitalOcean), React frontend (hosted with Vercel), [OpenRouter](https://openrouter.ai/).
 
@@ -32,13 +32,6 @@ B2C platform for tertiary students to transform their resources into interactive
 **Tech Stack:** React frontend (hosted on Netlify), Node.js server + MongoDB database (hosted on DigitalOcean), Stripe payment gateway via webhooks.
 
 [View Repository](https://github.com/KiddKailash/StudyBuddy/tree/develop)
-
-### **LearnABLE**
-A platform for primary and secondary teachers that uses AI to tailor educational material for students with learning considerations (Grades 2–10). Aligns with V7 of the Australian Curriculum and UDL design principles.
-
-**Tech Stack:** React frontend (hosted with Vercel), Django backend (hosted on DigitalOcean), OpenRouter
-
-[View Repository](https://github.com/KiddKailash/LearnABLE)
 
 ---
 
